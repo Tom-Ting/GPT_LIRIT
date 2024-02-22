@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="vipuser@60.235.231.210:15220 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="vgg">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/vipuser/VGG16" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="vipuser@60.235.231.210:15220 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_917" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/tmp/pycharm_project_917/data/test" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="vipuser@60.235.231.210:15220 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_917" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1b13c9e5-0cff-492a-be9b-4511def817ac" name="vgg">
+        <fileTransfer accessType="SFTP" host="60.235.231.210" port="15220" sshConfigId="47229c6d-c903-4c23-9a99-2d7522788590" sshConfig="vipuser@60.235.231.210:15220 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
